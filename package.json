@@ -78,7 +78,7 @@
 		"@babel/polyfill": "^7.2.5",
 		"@babel/preset-env": "^7.3.4",
 		"aria-query": "^3.0.0",
-		"axios": "^0.18.0",
+		"axios": "^1.15.0",
 		"babelify": "^10.0.0",
 		"blanket": "~1.2.3",
 		"browserify": "^16.2.3",
@@ -120,7 +120,7 @@
 		"revalidator": "~0.3.1",
 		"selenium-webdriver": "~3.6.0",
 		"sri-toolbox": "^0.2.0",
-		"standard-version": "^5.0.0",
+		"standard-version": "^9.5.0",
 		"typescript": "^2.9.2",
 		"uglify-js": "^3.4.4"
 	},
